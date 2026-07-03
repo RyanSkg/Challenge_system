@@ -15,7 +15,7 @@ __pycache__/
 .idea/
 
 # Streamlit
-.streamlit/secrets.toml
+.streamlit
 
 # Sistema
 .DS_Store
